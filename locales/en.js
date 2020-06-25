@@ -283,7 +283,17 @@
     "update":"Update",
 
     "errorLoadingBook":"An error has occurred while loading the book. Please try again later.",
-    "errorLoadingBookNative":"An error has occurred while opening the book. Please try redownloading the book."
+    "errorLoadingBookNative":"An error has occurred while opening the book. Please try redownloading the book.",
+
+    "loginWithKotobee": "Login with Kotobee",
+    "loginWith": "Login with",
+
+    "range":"Range",
+    "currentChapter":"Current chapter",
+    "entireBook":"Entire book",
+    "pdfChapterNotes":"Chapter notes",
+    "pdfChapterNotesDesc":"Any notes will be appended to the end of the relative chapter",
+    "pdfInProgress":"A PDF export is currently being generated for you. Please try again later."
 
 
 }

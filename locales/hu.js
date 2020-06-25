@@ -276,9 +276,17 @@
     "update":              "Update",
 
     "errorLoadingBook": "Hiba történt a könyv betöltésekor. Kérjük, próbálkozzon később újra.",
-    "errorLoadingBookNative": "Hiba történt a könyv megnyitásakor. Kérjük, próbálja meg újra tölteni a könyvet."
+    "errorLoadingBookNative": "Hiba történt a könyv megnyitásakor. Kérjük, próbálja meg újra tölteni a könyvet.",
 	
-	
+    "loginWithKotobee": "Bejelentkezés a Kotobee-vel",
+    "loginWith": "Bejelentkezés a",
+	"range":                "Hatótávolság",
+	"currentChapter":       "Aktuális fejezet",
+	"entireBook":           "Teljes könyv",
+	"pdfChapterNotes":      "Fejezet megjegyzések",
+	"pdfChapterNotesDesc":  "Az esetleges megjegyzéseket a fejezet végéhez csatoljuk",
+	"pdfInProgress":        "Jelenleg egy PDF fájlt generálunk az ön számára. Kérjük, próbálkozzon később újra."
+
 	
 
 }
